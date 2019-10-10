@@ -18,7 +18,7 @@ Es una descripción de las acciones que puede hacer un objeto ... por ejemplo, c
     
 Un ejemplo del uso de las interfaces:
 
-   ---<img width="250" height="400" src="Images/Captura de pantalla (86).png">
+   <img width="550" height="400" src="Imagenes/interface.png">
 
 Un ejemplo de una interfaz:
 ```javascript
@@ -42,7 +42,9 @@ Es una clase normal pero al menos uno de sus métodos debe ser abstracto para co
    - Los elementos abstractos NO proporcionan implementación; solo declaraciones.
    - En la subclase, se utiliza “override” para realizar la implementación correspondiente.
    
-   
+Un ejemplo del uso de una clase abstracta:
+
+   <img width="550" height="400" src="Imagenes/fig2.png">
    
 Un ejemplo de una clase abstracta:   
 ``` java   
@@ -158,7 +160,8 @@ public class Parcel11 {
 ### Clase Object
 Es la clase mamá raíz de todo el árbol de la jerarquía de clases Java, y proporciona un cierto número de métodos de utilidad general que pueden utilizar todos los objetos. Algunos de las funciones son:
 
-////////imagen de metodos
+
+   <img width="850" height="400" src="Imagenes/functions.png">
 
 ---------
 ### Estándar de nombre en tipos genéricos
